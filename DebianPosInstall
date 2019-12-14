@@ -35,21 +35,22 @@ fi
 
 ## Criando Lista de Favoritos do Chrome
 FAV=(
-	LEARN 									- https://www.youtube.com/playlist?list=PLGNztVHyC5OpR_ZOAvUcN4kROML6sVPbd
-	SergioAlmeidaCiprianoJr 				- https://github.com/SergioAlmeidaCiprianoJr
-	CD-MOJ 									- https://moj.naquadah.com.br/cgi-bin/index.sh
-	Telegram								- https://web.telegram.org
-	Wpp Web									- https://web.whatsapp.com/
-	Matricula Web 							- https://matriculaweb.unb.br/graduacao/sec/login.aspx
-	Apender UnB								- https://aprender.ead.unb.br/
-	MIT open course ware					- https://ocw.mit.edu/index.htm
-	IRC										- https://irc.lappis.rocks/
-	Livro de Shell							- https://bash.cyberciti.biz/guide/Main_Page
-	URI 									- https://www.urionlinejudge.com.br/judge/pt/
-	CodeForces								- https://codeforces.com/
-	OverLeaf								- https://pt.overleaf.com/project
-	Outlook									- https://outlook.live.com/
-	OneDrive								- https://onedrive.live.com/
+	LEARN 													- https://www.youtube.com/playlist?list=PLGNztVHyC5OpR_ZOAvUcN4kROML6sVPbd
+	SergioAlmeidaCiprianoJr 								- https://github.com/SergioAlmeidaCiprianoJr
+	SergioAlmeidaCiprianoJr 								- https://gitlab.com/SergioAlmeidaCiprianoJr
+	CD-MOJ 													- https://moj.naquadah.com.br/cgi-bin/index.sh
+	Telegram												- https://web.telegram.org
+	Wpp Web													- https://web.whatsapp.com/
+	Matricula Web 											- https://matriculaweb.unb.br/graduacao/sec/login.aspx
+	Apender UnB												- https://aprender.ead.unb.br/
+	MIT open course ware									- https://ocw.mit.edu/index.htm
+	IRC														- https://irc.lappis.rocks/
+	Livro de Shell											- https://bash.cyberciti.biz/guide/Main_Page
+	URI 													- https://www.urionlinejudge.com.br/judge/pt/
+	CodeForces												- https://codeforces.com/
+	OverLeaf												- https://pt.overleaf.com/project
+	Outlook													- https://outlook.live.com/
+	OneDrive												- https://onedrive.live.com/
 )
 touch ListaFavoChrome
 for favorito in ${FAV[*]}; do
