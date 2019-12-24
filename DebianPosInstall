@@ -75,6 +75,7 @@ mkdir UnB && cd UnB
 git clone https://github.com/SergioAlmeidaCiprianoJr/Practice.git
 git clone https://github.com/edsomjr/TEP.git
 git clone https://github.com/xstpl/Livros-1
+git clone https://github.com/SergioAlmeidaCiprianoJr/Optimization.jl.git
 
 ## Snap install
 snap install code --classic
