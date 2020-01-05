@@ -52,6 +52,7 @@ FAV=(
 	"Outlook												- https://outlook.live.com/"
 	"OneDrive												- https://onedrive.live.com/"
 	"Fluent C++												- https://www.fluentcpp.com/"
+	"CP algorithms											- https://cp-algorithms.com/string/suffix-automaton.html"
 )
 touch ListaFavoChrome
 for favorito in ${FAV[*]}; do
