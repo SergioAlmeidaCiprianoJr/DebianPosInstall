@@ -6,6 +6,9 @@ sudo rm /var/lib/dpkg/lock-fontend && sudo rm /var/cache/apt/archives/lock
 ## Indo para home
 cd $HOME
 
+## Ferramentas para formatar PC
+sudo apt install woeusb
+
 ## Linguagens
 sudo apt install julia
 
